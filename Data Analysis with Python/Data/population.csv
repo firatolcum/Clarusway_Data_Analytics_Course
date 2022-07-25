@@ -1,0 +1,11 @@
+index,Rank,Country,Population,Area(km2),Density(pop/km2),Population trend
+0,1,India,1376280000,3287240,419,Growing
+1,2,Pakistan,228510000,803940,284,Rapidly growing
+2,3,Bangladesh,172720000,143998,1199,Rapidly growing
+3,4,Japan,126010000,377873,333,Declining[100]
+4,5,Philippines,111880000,300000,373,Growing
+5,6,Vietnam,96209000,331689,290,Growing
+6,7,United Kingdom,66436000,243610,273,Growing
+7,8,South Korea,51781000,99538,520,Steady
+8,9,Taiwan,23604000,36193,652,Steady
+9,10,Sri Lanka,21803000,65610,332,Growing
