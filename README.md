@@ -24,7 +24,7 @@ This repository contains the following topics :<br>
     - Functions<br>
     - Joins & View<br>
     - Advanced Grouping Operations<br>
-    - Set Operatırs<br>
+    - Set Operators<br>
     - CASE Expression<br>
     - Subqueries and CTE's<br>
     - Window Functions<br>
