@@ -7,3 +7,9 @@ This will allow us to X-ray the data as part of the EDA process before setting u
 
 ## Demo
 ![image.jpg](https://i.ibb.co/c2rq4rT/Bike-Sharing.png)
+
+## About the Dataset
+Historical data for bike sharing in London 'Powered by TfL Open Data' :
+https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
+
+## License
