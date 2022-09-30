@@ -24,7 +24,8 @@ git clone https://github.com/kurtispykes/Machine-Learning.git
 2. `cd <repo>`
 3. `pip install virtualenv` (if you don't already have virtualenv installed)
 4. `virtualenv venv` to create your new environment (called 'venv' here)
-5. `venv/bin/activate.bat` to enter the virtual environment
+5. `venv/bin/activate` to enter the virtual environment in Linux
+    `venv/Scripts/activate` to enter the virtual environment in Windows
 6. `pip install -r requirements.txt` to install the requirements in the current environment
 
 ## License
