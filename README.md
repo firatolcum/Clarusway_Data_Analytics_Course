@@ -2,7 +2,7 @@
  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/firatolcum?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/firatolcum) 
 
-# Clarusway Data Analytics <img src=https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/Clarusway.png" align="right" width="120" />
+# Clarusway Data Analytics <img src="https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/Clarusway.png" align="right" width="120" />
 
 ## 📣 About this Data Analytics Course
 Our Data Analytics Course is designed to teach you how to derive insightful knowledge from raw data to deliver measurable and tangible results to a variety of business stakeholders. This Data Analytics Bootcamp focuses on the practical technical knowledge required to analyze and solve data problems meticulously and quickly.
