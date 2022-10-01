@@ -1,7 +1,7 @@
  ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/firatolcum?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/firatolcum) 
-[![View My Portfolio Page](https://img.shields.io/badge/View-My_Profile-yellow?logo=Port)](https://firatolcum.social/) 
+[![View My Portfolio Page](https://img.shields.io/badge/View-My_Portfolio-yellow?logo=Port)](https://firatolcum.social/) 
 
 # Clarusway Data Analytics <img src="https://github.com/firatolcum/Clarusway_Data_Analytics_Course/blob/master/8-Certificates/Clarusway.png" align="right" width="200" />
 
