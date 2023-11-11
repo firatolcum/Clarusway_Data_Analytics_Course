@@ -56,8 +56,8 @@ This certificate is given to students who successfully completed Clarusway Stati
 
 This certificate is given to students who successfully completed Clarusway Data Visualization with TABLEAU Course in the Clarusway Data Science Bootcamp after **40 hours** live in-class of intensive work. They also successfully completed **many challenging code hands-ons, assignments, and 2 projects**. They completed **50+ hours** of pre-class & post-class activities. During this course, students used many tools and methods such as: Clarusway LMS (Learning Management System), Mentoring (Group & 1on1), LABs, Workshops, Teamworks, Kahoot, Flipgrid, Peardeck, Zoom, Slack, etc. as well as the skills specified in the certificate.
 
-👉 [Click to go to my portfolio page.](https://firatolcum.social/)
+👉 [Click to go to my portfolio page.](https://firatolcum.com)
 
 ---
-<p>&copy; 2022 Fırat Olçum </p>
+<p>&copy; 2023 Fırat Olçum </p>
 
